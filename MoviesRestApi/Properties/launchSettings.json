@@ -1,0 +1,8 @@
+  {
+  "profiles": {
+    "MoviesRestApi": {
+      "commandName": "Project",
+      "commandLineArgs": "maze"
+    }
+  }
+}
